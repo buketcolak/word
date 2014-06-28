@@ -1,0 +1,11 @@
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\WordSaver.Tests.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\WordSaver.Tests.pdb
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\nunit.framework.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\WordSaver.Business.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\EntityFramework.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\WordSaver.Business.pdb
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\nunit.framework.xml
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\bin\Debug\EntityFramework.xml
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\obj\Debug\WordSaver.Tests.csprojResolveAssemblyReference.cache
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\obj\Debug\WordSaver.Tests.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Tests\obj\Debug\WordSaver.Tests.pdb

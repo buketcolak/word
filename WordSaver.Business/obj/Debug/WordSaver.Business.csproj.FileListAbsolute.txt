@@ -1,0 +1,9 @@
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\WordSaver.Business.dll.config
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\WordSaver.Business.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\WordSaver.Business.pdb
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\EntityFramework.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\EntityFramework.xml
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\obj\Debug\WordSaver.Business.dll
+D:\work\other-word-saver\src\WordSaver\WordSaver.Business\obj\Debug\WordSaver.Business.pdb
